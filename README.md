@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lala
 - 👀 I’m interested in OS design.
 - 🌱 I’m currently learning assembly language.
-- 💞️ I’m looking to collaborate on developing an OS for fun.
+
 
 <!---
 Cyborglala/Cyborglala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
