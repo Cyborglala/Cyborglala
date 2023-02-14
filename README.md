@@ -1,4 +1,4 @@
-- 👋 Hi, I’m lala
+- 👋 Hi, I’m 0xffff
 - 👀 I’m interested in OS design.
 - 🌱 I’m currently learning assembly language.
 
